@@ -1,0 +1,14 @@
+{
+  "start_recording": "録音開始",
+  "stop": "停止",
+  "clear_history": "履歴クリア",
+  "home": "ホーム",
+  "settings": "設定",
+  "openai_api_key": "OpenAI APIキー",
+  "native_language": "Native Language",
+  "target_language": "翻訳先言語",
+  "speaking_speed": "話す速度",
+  "translation_model": "翻訳モデル",
+  "editMessage": "伝えたい内容（日本語）",
+  "translate": "翻訳"
+}

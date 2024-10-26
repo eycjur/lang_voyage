@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lang_voyage/static/css/main.60bfc459.css",
+    "main.js": "/lang_voyage/static/js/main.487c132c.js",
+    "static/js/453.78f6c265.chunk.js": "/lang_voyage/static/js/453.78f6c265.chunk.js",
+    "index.html": "/lang_voyage/index.html",
+    "static/media/getFetch.cjs": "/lang_voyage/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.60bfc459.css.map": "/lang_voyage/static/css/main.60bfc459.css.map",
+    "main.487c132c.js.map": "/lang_voyage/static/js/main.487c132c.js.map",
+    "453.78f6c265.chunk.js.map": "/lang_voyage/static/js/453.78f6c265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60bfc459.css",
+    "static/js/main.487c132c.js"
+  ]
+}
