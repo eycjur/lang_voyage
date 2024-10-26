@@ -1,5 +1,4 @@
 # Lang Voyage
-## Description
 
 This is a simple language learning app that allows users to learn a new language by chatting with a assistant.
 

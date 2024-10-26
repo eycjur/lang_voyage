@@ -3,10 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 const chatHistorySlice = createSlice({
   name: "chatHistory",
   initialState: {
-    chatHistory: [
-      { id: "abc", role: "user", content: "user message" },
-      { id: "def", role: "assistant", content: "assistant message" },
-    ],
+    chatHistory: [],
   },
   reducers: {
     // payload: {id: string, role: string, content: string}

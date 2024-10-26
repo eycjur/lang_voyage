@@ -27,7 +27,7 @@ const WordWithTooltip = ({ word }) => {
     if (!word) return;
     const wordMeaning = await cachedFetchMeaning(word);
     setMeaning(wordMeaning);
-  }, [word]);
+  }, [word]);  // eslint-disable-line
 
   return (
     <Tooltip

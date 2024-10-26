@@ -50,14 +50,14 @@ export default function AudioTalk() {
         console.error(error);
       }
     }
-  }, []);
+  }, []);  // eslint-disable-line
 
   const disconnectConversation = useCallback(async () => {
     dispatch(disconnect());
     client.disconnect();
     await wavRecorder.end();
     await wavStreamPlayer.interrupt();
-  }, []);
+  }, []);  // eslint-disable-line
 
   useEffect(() => {
     client.updateSession({
@@ -109,7 +109,7 @@ export default function AudioTalk() {
     return () => {
       client.reset();
     };
-  }, []);
+  }, []);  // eslint-disable-line
 
   return (
     <Container maxWidth="md">
