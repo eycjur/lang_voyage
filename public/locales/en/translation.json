@@ -1,0 +1,14 @@
+{
+  "start_recording": "Start Recording",
+  "stop": "Stop",
+  "clear_history": "Clear History",
+  "home": "Home",
+  "settings": "Settings",
+  "openai_api_key": "OpenAI API Key",
+  "native_language": "Native Language",
+  "target_language": "Target Language",
+  "speaking_speed": "Speaking Speed",
+  "translation_model": "Translation Model",
+  "editMessage": "Message to be conveyed (English)",
+  "translate": "Translate"
+}
